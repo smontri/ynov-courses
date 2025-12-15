@@ -8,4 +8,4 @@ Repository de cours pour Ynov (Dev avec Docker, Intro Cloud, Secu Cloud)
 
 ## Terraform sur Azure
 
-[Explorez le contenu du cours Docker](terraform/README.md)
+[Explorez le contenu en lien avec Terraform](terraform/README.md)
