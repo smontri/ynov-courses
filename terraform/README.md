@@ -13,4 +13,4 @@
 
 * Dans le terminal, sélectionnez la souscription 
 
-![alt text](20251215_155352_image.png)
+![alt text](assets/20251215_155352_image.png)
